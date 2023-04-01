@@ -17,6 +17,6 @@ NODE TİPİ | CPU     | RAM      | SSD     |
 - <a href="https://discord.gg/Fd96Kt8F4x" target="_blank">Discord</a>
 
 
-# 1) İlk aşama EVM Cartenz Testnet, diğer aşamalarda Cosmos testnetleri de olacak. O yüzden hepsini ayırmaya karar verdim. Zaman geçtikçe rehberi güncellerim.
+# İlk aşama EVM Cartenz Testnet, diğer aşamalarda Cosmos testneti de olacak. O yüzden hepsini ayırmaya karar verdim. Zaman geçtikçe rehberi güncellerim.
 
 - [EVM CARTENZ TESTNET](https://github.com/thisislexar/Gitshock-Testnet/blob/main/evmcartenztestnet.md)
